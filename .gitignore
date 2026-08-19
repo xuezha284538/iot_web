@@ -1,0 +1,25 @@
+# Keil MDK 构建产物
+Listings/
+Objects/
+*.uvguix.*
+*.uvoptx
+*.dep
+*.crf
+*.d
+*.o
+*.lst
+*.map
+*.htm
+*.sct
+*.axf
+*.hex
+*.bin
+*.build_log.htm
+
+# 备份文件
+*.bak
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
